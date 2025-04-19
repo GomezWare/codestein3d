@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CodeStein 3D</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div id="start-screen" class="start-screen">
+        <div class="start-content">
+            <h1>CodeStein 3D</h1>
+            <h2 data-text="Get Psyched!">Get Psyched!</h2>
+            <p>Presiona ENTER para comenzar</p>
+        </div>
+    </div>
+    <div id="game-container" class="hidden">
+        <canvas id="game-canvas"></canvas>
+        <div id="hud">
+            <div id="status-bar">
+                <div class="hud-background"></div>
+                <div class="hud-content">
+                    <div id="stats-left">
+                        <div id="floor">
+                            <span class="label">FLOOR</span>
+                            <span class="value" id="floor-value">0-0</span>
+                        </div>
+                    </div>
+                    <div id="stats-center">
+                        <div id="face">
+                            <img src="" alt="Face" id="face-img">
+                        </div>
+                        <div id="health">
+                            <span class="label">HEALTH</span>
+                            <span class="value" id="health-value">100</span>
+                            <div class="percent">%</div>
+                        </div>
+                    </div>
+                    <div id="stats-right">
+                        <div id="ammo">
+                            <span class="label">AMMO</span>
+                            <span class="value" id="ammo-value">8</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="module" src="js/main.js"></script>
+</body>
+</html> 
