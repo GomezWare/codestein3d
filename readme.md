@@ -58,6 +58,3 @@ Este proyecto está abierto a mejoras, optimizaciones o ideas. ¡Siéntete libre
 ---
 
 🕹️ ¡Juega, explora y revive el clásico desde tu navegador!
-arduino
-Copiar
-Editar
