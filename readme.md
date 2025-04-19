@@ -10,6 +10,14 @@
 
 🎮 [¡Juega ahora!](https://code3d.gomeware.dev)
 
+###Controles
+- `Flechitas`: Mover al personaje
+- `Shift izquierdo`: Correr y apuntar mas rapido
+- `Espacio`: Disparar
+- `M`: Abrir el minimapa
+- `P`:  Pausar/Renaudar Musica
+- `N`:  silenciar/activar  Musica
+
 ---
 
 ## 🎮 Características
