@@ -14,40 +14,40 @@
 
 ## 🎮 Características
 
-    - Motor de renderizado basado en raycasting.
-    - Movimiento estilo FPS clásico.
-    - Interacción básica con el entorno.
-    - Sprites y sonidos del juego original (versión *freeware*).
-    - Todo implementado sin frameworks externos.
+- Motor de renderizado basado en raycasting.
+- Movimiento estilo FPS clásico.
+- Interacción básica con el entorno.
+- Sprites y sonidos del juego original (versión *freeware*).
+- Todo implementado sin frameworks externos.
 
 ---
 
 ## 🚀 Tecnologías
 
-    - HTML5
-    - JavaScript puro (VanillaJS)
-    - Canvas API
+- HTML5
+- JavaScript puro (VanillaJS)
+- Canvas API
 
 ---
 
 ## 📁 Instalación
 
-    1. Clona el repositorio:
+1. Clona el repositorio:
 
 ```bash
 git clone https://github.com/tuusuario/codestein3d.git
 ```
-    2. Abre el archivo `index.html` en tu navegador.
+2. Abre el archivo `index.html` en tu navegador.
 
 ---
 
 ## 📢 Créditos y Licencia
 
-    - Todos los sprites, sonidos y assets son parte de la versión freeware de Wolfenstein 3D, propiedad de id Software.
+- Todos los sprites, sonidos y assets son parte de la versión freeware de Wolfenstein 3D, propiedad de id Software.
 
-    - Este proyecto es no oficial y se realiza con fines educativos y de homenaje, sin intención de lucro.
+- Este proyecto es no oficial y se realiza con fines educativos y de homenaje, sin intención de lucro.
 
-    - id Software mantiene todos los derechos sobre el contenido original.
+- id Software mantiene todos los derechos sobre el contenido original.
 
 ---
 
